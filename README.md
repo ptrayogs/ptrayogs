@@ -6,13 +6,6 @@ Yoga, who completed his undergraduate degree in 2022, began working as a civil s
 
 Additionally, Yoga is passionate about expanding his knowledge and network, engaging in youth forums on both national and international scales. He hopes to contribute to the development of remote sensing applications in official statistics, socio-economics, and agriculture for both government and private sectors.
 
-#### I use these tools on my project
-
-<div align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qgis/qgis-original.svg" height="30" alt="qgis logo"  />
-</div>
 
 #### Feel free to discuss and collaborate to make more impact on the community
 
