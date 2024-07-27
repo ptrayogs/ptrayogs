@@ -2,7 +2,7 @@
 #### Geospatial AI Enthusiast and Civil Servant @BPS-StatisticsIndonesia
 
 
-Yoga, who completed his undergraduate degree in 2022, began working as a civil servant at Statistics Indonesia (BPS Indonesia), serving as a Staff in the IPDS Division (Integration, Processing, and Dissemination of Statistics). He explored his strong interest in remote sensing, machine learning, geospatial artificial intelligence, and deep learning, focusing on socio-economic and agricultural sectors.
+Yoga, who completed his undergraduate degree in 2022, began working as a civil servant at **Statistics Indonesia (BPS Indonesia)**, serving as a Staff in the IPDS Division (Integration, Processing, and Dissemination of Statistics). He explored his strong interest in **remote sensing, machine learning, geospatial artificial intelligence, and deep learning**, focusing on socio-economic and agricultural sectors.
 
 Additionally, Yoga is passionate about expanding his knowledge and network, engaging in youth forums on both national and international scales. He hopes to contribute to the development of remote sensing applications in official statistics, socio-economics, and agriculture for both government and private sectors.
 
