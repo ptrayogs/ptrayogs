@@ -6,14 +6,7 @@ Yoga, who completed his undergraduate degree in 2022, began working as a civil s
 
 Additionally, Yoga is passionate about expanding his knowledge and network, engaging in youth forums on both national and international scales. He hopes to contribute to the development of remote sensing applications in official statistics, socio-economics, and agriculture for both government and private sectors.
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=fikrianggara&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fikrianggara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-#### I uese these tools on my project
+#### I use these tools on my project
 
 <div align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
